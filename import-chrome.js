@@ -1,5 +1,3 @@
-(()=>{
-    const muy = {
-        today:console.log(new Date()),
-    }
-})
+const muy = {
+    today:console.log(new Date()),
+}
